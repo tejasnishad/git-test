@@ -1,2 +1,2 @@
-# git-test
-Learning basic git commands
+# My First Repo
+I'm using this repository to practice git commands 😌
